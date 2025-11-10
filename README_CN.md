@@ -525,6 +525,13 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/zijianli1234">
+                    <img src="https://avatars.githubusercontent.com/u/67720538?v=4" width="90;" alt="zijianli1234"/>
+                    <br />
+                    <sub><b>zijian_li</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/hetz">
                     <img src="https://avatars.githubusercontent.com/u/820141?v=4" width="90;" alt="hetz"/>
                     <br />
